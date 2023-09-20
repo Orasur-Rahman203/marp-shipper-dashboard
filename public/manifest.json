@@ -1,0 +1,20 @@
+{
+  "short_name": "Admin_Dashboard",
+  "name": "Admin Dashboard React",
+  "icons": [
+    {
+      "src": "favicon/Fab-icon.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "favicon/Fab-icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
